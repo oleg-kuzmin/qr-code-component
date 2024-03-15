@@ -7,7 +7,7 @@ export default function QrCode() {
       <Image
         className={styles.QrCode__Image}
         src="/images/image-qr-code.png"
-        alt="qr-code"
+        alt="qr-code to frontendmentor.io"
         width={288}
         height={288}
       />
